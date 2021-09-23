@@ -1,3 +1,3 @@
-from model.plambda import pythonlambda
+from plambda import pythonlambda
 
 print(pythonlambda())
